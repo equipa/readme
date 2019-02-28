@@ -1,2 +1,2 @@
 # readme
-this is a test
+This will be the new name of Octocumunity
